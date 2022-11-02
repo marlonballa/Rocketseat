@@ -1,0 +1,5 @@
+## O que é o React Native?
+    - Ambiente de desenvolvimento Mobile para Android e IOS, que utiliza JavaScript como linguagem de programação. 
+    - JavaScript -> Bundle (Tradutor responsável por entregar os pacotes de cada plataforma)
+    - Os componentes do ReactNative são renderizados para componentes nativos de cada plataforma. 
+    
